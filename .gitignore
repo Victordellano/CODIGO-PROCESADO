@@ -1,0 +1,9 @@
+/Diagrama_Gantt_Proyecto.png
+env/
+venv/
+.env
+
+*.wav
+*.mp3
+__pycache__/
+.ipynb_checkpoints/
